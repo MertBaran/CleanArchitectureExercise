@@ -3,7 +3,7 @@ using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
 using System;
 
-namespace ConsoleUI
+namespace ConsoleUI2
 {
     //SOLID
     //Solid'in O'su:Open Closed Principle
