@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Busine
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{CC517A00-6BF3-4114-945C-57F61B4DC869}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyConsoleUI", "ConsoleUI2\MyConsoleUI.csproj", "{AA8F7760-B088-4DB3-84E1-27565DF1F475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "ConsoleUI2\ConsoleUI.csproj", "{AA8F7760-B088-4DB3-84E1-27565DF1F475}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{1A186A95-E458-4855-A6EE-A5ADF66E311F}"
 EndProject
